@@ -12,9 +12,7 @@ import com.example.bite_speed.dao.ContactDao;
 import com.example.bite_speed.dao.EmailDao;
 import com.example.bite_speed.dao.PhoneDao;
 import com.example.bite_speed.dto.Contact;
-import com.example.bite_speed.dto.Phone;
 import com.example.bite_speed.dto.Request;
-import com.example.bite_speed.dto.Response;
 
 @RestController
 public class handleControl {
